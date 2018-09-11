@@ -1,0 +1,7 @@
+main: fr.inoxs.clearlag.ClearLag
+version: 1.0
+author: inoxsdev
+name: OzrilClearLag
+commands:
+    lagclear:
+    

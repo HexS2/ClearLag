@@ -1,0 +1,3 @@
+prefix: '&4[Antilag]'
+message: '&4suppression entitées dans %x% minutes !'
+delete_message: '&c%count% entitées supprimées'
